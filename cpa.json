@@ -1,1 +1,37 @@
-
+{
+    "cpa": [
+      {
+        "id":1,
+        "data": 202307291145,
+        "paciente": 1,
+        "sis":136,
+        "dia": 88 ,
+        "pulso": 74, 
+        "glicemia": 110
+      },{
+        "id":2,
+        "data": 202307291245,
+        "paciente": 1,
+        "sis":136,
+        "dia": 88 ,
+        "pulso": 74, 
+        "glicemia": 110
+      }
+    ],
+    "paciente": [
+      {
+        "id":1,
+        "nome": "Maria Helena",
+        "idade": 71,
+        "altura": 1.55,
+        "peso": 69
+      },
+      {
+        "id":2,
+        "nome": "Artur",
+        "idade": 82,
+        "altura": 1.65,
+        "peso": 82
+      }
+    ]
+  }
